@@ -1,0 +1,78 @@
+
+.title-bar nav ul { 
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+
+}
+
+.name { 
+    Display:flex;
+    justify-content: left;
+    font-size: xx-large;
+    margin-left: 3rem;
+    
+}
+.job {
+    display:flex;
+    justify-content:left;
+    margin-left: 3rem;
+}
+span {
+    display: flex; 
+    justify-content: left;
+    margin-left: 3rem
+
+}
+p  {
+    display:flex;
+    justify-content: left;
+    margin-left: 3rem;
+    margin-right: 3rem;
+
+}
+.text{
+    grid-template: 1fr;
+    margin-right: 7rem;
+}
+.aboutme { 
+    display:flex;
+    margin-left:  3rem;
+}
+.profile {
+    float:right;
+    border: 2px solid black;
+
+}
+.button {
+    margin-top: 3rem;
+    margin-left:3rem;
+}
+.exp {
+   margin-left: 3rem;
+}
+.contain {
+    background-color: blanchedalmond;
+}
+.projects {
+    margin-left: 3rem;
+}
+.projects img {
+    display:block;
+    width:200px;
+    height:150px;
+}
+.network {
+    display:flex;
+    justify-content:center;
+    font-size: xx-large;
+
+}
+.titles title { 
+    display:flex;
+    font-weight: bolder;
+}
+.aboutme span {
+    display: flex;
+    float:left
+}
