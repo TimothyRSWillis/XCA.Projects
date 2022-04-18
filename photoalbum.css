@@ -1,0 +1,10 @@
+
+.thumbnails {
+    width: 500;
+    height: 500;
+}
+
+.thumbnails img {
+    height: 300px;
+    width: 300px;
+}
