@@ -1,0 +1,33 @@
+.title {
+  display: flex;
+  justify-content: center;
+}
+.score {
+  display: flex;
+  justify-content: center;
+  font-size: xx-large;
+}
+.input {
+  display: flex;
+  justify-content: center;
+  font-size: xx-large;
+}
+.slider {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+}
+.slide {
+  display: flex;
+  justify-content: space-evenly;
+  width: 50%;
+  height: 25px;
+}
+.answer {
+  display: flex;
+  justify-content: center;
+}
+button {
+  height: 50px;
+  width: 100px;
+}
